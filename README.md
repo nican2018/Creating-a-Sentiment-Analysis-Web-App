@@ -1,4 +1,4 @@
-# Deploying Sentiment analysis using Amazon Web Service on web app
+# Creating a Sentiment Analysis Web App
 
 Project Overview
 
