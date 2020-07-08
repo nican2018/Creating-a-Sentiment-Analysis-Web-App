@@ -1,4 +1,4 @@
-# Model_deplyment_on_AWS
+# Deploying Sentiment analysis using Amazon Web Service on web app
 
 Project Overview
 
